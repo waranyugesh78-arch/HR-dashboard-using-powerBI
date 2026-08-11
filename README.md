@@ -9,7 +9,7 @@ An interactive **HR Analysis Dashboard** designed to analyze employee data and p
 
 ### 📌 HR Dashboard Overview
 
-![HR Dashboard Overview](dashboard-overview.png)
+![HR Dashboard Overview]()
 
 ### 📌 HR Analysis Dashboard
 
@@ -17,7 +17,7 @@ An interactive **HR Analysis Dashboard** designed to analyze employee data and p
 
 ### 📌 Data Source
 
-![HR Data](hr-data.png)
+![HR Data](dataset.png)
 
 ### 📌 Data Model
 
