@@ -9,7 +9,7 @@ An interactive **HR Analysis Dashboard** designed to analyze employee data and p
 
 ### 📌 HR Dashboard Overview
 
-![HR Dashboard Overview]()
+![HR Dashboard Overview](hr dashboard.png)
 
 ### 📌 HR Analysis Dashboard
 
