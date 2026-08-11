@@ -21,7 +21,7 @@ An interactive **HR Analysis Dashboard** designed to analyze employee data and p
 
 ### 📌 Data Model
 
-![Data Model](data-model.png)
+![Data Model](model view.png)
 
 ---
 
